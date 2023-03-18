@@ -13,7 +13,7 @@ const GenreFilter = (props) => {
                     {props.genres.map((val) => {
                         return ( // Looping in genre Array to show All Button And Onclicking to button thats help inm filter movie list
                             <button
-                                className={`btn mx-1 ${props.filterMovie === val ? "btn-dark" : "btn-outline-primary"}`} onClick={() => props.filtered(val)}>{val}</button>
+                                className={`btn mx-1 my-1 ${props.filterMovie === val ? "btn-dark" : "btn-outline-primary"}`} onClick={() => props.filtered(val)}>{val}</button>
                         )
                     })}
                 </div>
