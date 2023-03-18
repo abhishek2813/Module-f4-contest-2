@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Module-f4-contest-2/static/js/main.8e87d9e1.js",
+    "main.js": "/Module-f4-contest-2/static/js/main.d1d852c1.js",
     "index.html": "/Module-f4-contest-2/index.html",
-    "main.8e87d9e1.js.map": "/Module-f4-contest-2/static/js/main.8e87d9e1.js.map"
+    "main.d1d852c1.js.map": "/Module-f4-contest-2/static/js/main.d1d852c1.js.map"
   },
   "entrypoints": [
-    "static/js/main.8e87d9e1.js"
+    "static/js/main.d1d852c1.js"
   ]
 }
